@@ -1,0 +1,12 @@
+{
+  "name": "esquenta-full-cycle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://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@github.com/ViniciusMazon/esquenta-maratona-full-cycle.git",
+  "author": "Vinicius Mazon <vnpmazon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}

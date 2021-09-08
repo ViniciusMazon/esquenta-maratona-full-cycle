@@ -1,0 +1,34 @@
+Arguments: 
+  /home/vinicius/.nvm/versions/node/v12.22.1/bin/node /home/vinicius/.nvm/versions/node/v12.22.1/bin/yarn add express
+
+PATH: 
+  /home/vinicius/anaconda3/bin:/home/vinicius/bin:/usr/local/bin:/home/vinicius/.nvm/versions/node/v12.22.1/bin:/home/vinicius/anaconda3/bin:/home/vinicius/bin:/usr/local/bin:/home/vinicius/.nvm/versions/node/v12.22.1/bin:/home/vinicius/.zinit/polaris/bin:/home/vinicius/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/vinicius/.rvm/bin:/home/vinicius/.yarn/bin:/usr/local/go/bin:/home/vinicius/go/bin:/home/vinicius/.rvm/bin:/home/vinicius/.yarn/bin:/usr/local/go/bin:/home/vinicius/go/bin:/home/vinicius/.rvm/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.22.1
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:66:26)
+
+npm manifest: 
+  {
+    "name": "esquenta-full-cycle",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://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@github.com/ViniciusMazon/esquenta-maratona-full-cycle.git",
+    "author": "Vinicius Mazon <vnpmazon@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
